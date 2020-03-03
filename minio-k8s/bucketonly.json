@@ -23,7 +23,7 @@
       ],
       "Effect": "Allow",
       "Resource": [
-        "arn:aws:s3:::naveen/*"
+        "arn:aws:s3:::<bucket-name>/*"
       ],
       "Sid": ""
     }
